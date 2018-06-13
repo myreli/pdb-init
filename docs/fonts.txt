@@ -1,0 +1,5 @@
+fontes utilizadas no modelo, todas disponíveis no google fonts: 
+	- Josefin Slab 
+	- Open Sans
+	- Open Sans Condensed
+	- Shadows Into Light
